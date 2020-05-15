@@ -1,0 +1,27 @@
+2019-09-27T19:44:57+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (25/12/2019) at position 0 (2): Unexpected character in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/front-page.php:40
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/front-page.php(40): DateTime->__construct('25/12/2019')
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/front-page.php on line 40
+
+2019-09-27T19:45:08+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (25/12/2019) at position 0 (2): Unexpected character in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/archive-event.php:19
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/archive-event.php(19): DateTime->__construct('25/12/2019')
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/archive-event.php on line 19
+
+2019-09-27T19:45:28+00:00 CRITICAL Uncaught Exception: DateTime::__construct(): Failed to parse time string (25/12/2019) at position 0 (2): Unexpected character in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/archive-event.php:19
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/archive-event.php(19): DateTime->__construct('25/12/2019')
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/archive-event.php on line 19
+

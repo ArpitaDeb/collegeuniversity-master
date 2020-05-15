@@ -1,0 +1,90 @@
+2019-10-02T15:56:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:56:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:57:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:57:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:58:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:58:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:58:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:58:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:58:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
+2019-10-02T15:58:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php on line 5 and exactly 1 expected in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php:2
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/single-professor.php(5): pageBanner()
+#1 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-includes/template-loader.php(78): include('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-blog-header.php(19): require_once('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/index.php(17): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/collegeuniversity/wp-content/themes/collegetheme/functions.php on line 2
+
